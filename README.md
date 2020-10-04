@@ -18,7 +18,7 @@ Demo
 ------
 Link: https://flightfarewebapp.herokuapp.com/
 
-![FLIGHT PRICE PREDICTION](https://user-images.githubusercontent.com/41515202/94375754-8ae2a080-0133-11eb-9c2b-279a39fcdf87.png)
+![FLIGHT PRICE PREDICTION-3](https://user-images.githubusercontent.com/41515202/95026175-0fda3680-06ad-11eb-86dc-457fa5ae1ab6.PNG)
 
 ![FLIGHT PRICE PREDICTION-2](https://user-images.githubusercontent.com/41515202/95026073-4b283580-06ac-11eb-9129-2bc25d19c15e.png)
 
